@@ -62,7 +62,7 @@ Then, click **New Pull Request**, then change the `compare:` to your branch (bel
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009839898469089321/unknown.png)
 
-Click **Create Pull Request** and it will bring you to this page
+Click **Create Pull Request** and it will bring you to this page.
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009840139146641478/unknown.png)
 
