@@ -54,7 +54,7 @@ Then click **Commit Changes**.
 
 ### Pull Requests
 
-After you added new articles or update them, you need to do **Pull Request** for articles to be reviewed. You start by clicking **Pull Requests**
+After you added new articles or update them, you need to do **Pull Request** for articles to be reviewed. You start by clicking **Pull Requests**.
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009839539717677216/unknown.png)
 
