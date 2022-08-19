@@ -70,7 +70,7 @@ Edit title and description of your Pull Request as you like, then click **Create
 
 ### Reviews
 
-In order to review a Pull Request, you click into a Pull Request URL and go to "Files changed", Click "Review Changes" and add your comment
+In order to review a Pull Request from a different author, you click into a Pull Request URL and go to "Files changed", Click "Review Changes" and add your comment
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009842057034084352/unknown.png)
 
