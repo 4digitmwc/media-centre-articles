@@ -46,7 +46,7 @@ Then click **Add File** and then **Upload Files** in the dropdown menu.
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009838181480415313/unknown.png)
 
-Then you drop your markdown file or choose from your directory and write a **Commit Changes**
+Then you drop your markdown file or choose from your directory and write a commit message.
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009838767114309693/unknown.png)
 
