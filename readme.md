@@ -1,6 +1,6 @@
 # 4 Digit MWC Media Centre Articles
 
-This is a documentation for 4 Digit MWC Media Centre Workflow via Github
+This is a documentation for 4 Digit MWC Media Centre Workflow via Github.
 
 ## Main tools
 
