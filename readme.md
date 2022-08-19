@@ -42,7 +42,7 @@ For example, if you create a new story, you upload the story by clicking `storie
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009837843469844542/unknown.png)
 
-Then click `Add File > Upload Files`
+Then click **Add File** and then **Upload Files** in the dropdown menu.
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009838181480415313/unknown.png)
 
