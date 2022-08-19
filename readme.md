@@ -58,7 +58,7 @@ After you added new articles or update them, you need to do **Pull Request** for
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009839539717677216/unknown.png)
 
-Then, click **New Pull Request**, then change the `compare:` to your branch (below for example)
+Then, click **New Pull Request**, then change the `compare:` to your branch (below for example).
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009839898469089321/unknown.png)
 
