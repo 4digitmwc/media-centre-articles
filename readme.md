@@ -28,7 +28,7 @@ In order to get access to **Media Centre** and **4dm Repositories** in general, 
 
 You will see many repositories, but the one we're going to use to write the articles is [media-centre-articles](https://github.com/4digitmwc/media-centre-articles).
 
-Create a separate branch by selecting at the branch icon. The branch name must be in format `yourname/<updates>` (example below)
+Create a separate branch by selecting at the branch icon. The branch name must be in format `yourname/<updates>` (example below).
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009835163632545915/unknown.png)
 
@@ -36,9 +36,9 @@ Then select "Create branch".
 
 ### Creating File / Uploading File
 
-After finishing your Article Markdown, go to the folder (stories/interviews/opinions) and upload the file based on category you wrote
+After finishing your Article Markdown, go to the folder (stories/interviews/opinions) and upload the file based on category you wrote.
 
-For example, if you create a new story, you upload the story by selecting `stories` folder
+For example, if you create a new story, you upload the story by selecting `stories` folder.
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009837843469844542/unknown.png)
 
