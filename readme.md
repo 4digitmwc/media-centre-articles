@@ -8,15 +8,63 @@ This is a documentation for 4 Digit MWC Media Centre Workflow via Github.
 
 For Article Writing, we will use **markdown (.md)** for writing articles. This format is closest to discord message format and easy to use. There are so many applications which support this.
 
-**Recommended Applications**
+#### Recommended Applications
+
 - [Notion](https://www.notion.so/)
+    - [Documentation](#notion)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Github](https://github.com/)
+    - [Documentation](#visual-studio-code)
 - [Discord](https://discord.com/) if you are a psychopath
 
-**Markdown Tutorial Resources**
+#### Markdown Tutorial Resources
 - [Markdown tutorial (markdownguide.org)](https://www.markdownguide.org/)
 - [Cheat Sheet (markdownguide.org)](https://www.markdownguide.org/cheat-sheet/)
+
+#### Notion
+
+[**Notion**](https://www.notion.so/) is a cloud based planning and notetaking. It has a feature for Markdown Importing and Exporting.
+
+To create an article, start by creating an account on Notion, then it will bring you to a dashboard. Select **New Page**.
+
+![](https://cdn.discordapp.com/attachments/546525809440194560/1010563019476045894/unknown.png)
+
+Create a title of a new page. (Article Name)
+
+![](https://cdn.discordapp.com/attachments/546525809440194560/1010563537082519732/unknown.png)
+
+Then Press Enter. After that the page is ready for writing a story. You can learn more on how to use Notion [here](https://www.notion.so/help/category/new-to-notion).
+
+In order to export a Notion Article to a markdown file, select **ellipsis (...)** then select **Export**.
+
+![](https://cdn.discordapp.com/attachments/546525809440194560/1010565787506978957/unknown.png)
+
+Make sure the settings are the same as following:
+
+![](https://cdn.discordapp.com/attachments/546525809440194560/1010566089018703943/unknown.png)
+
+Then **Export**.
+
+Notion will deliver a `.zip` file, extract them and rename a markdown file. [Upload it to Github](#creating-file--uploading-file) and [Request for reviews](#pull-requests) in order to publish an article.
+
+#### Visual Studio Code
+
+To start with **Visual Studio Code**, create a folder for articles then select **File** then **Open Folder**.
+
+![](https://cdn.discordapp.com/attachments/546525809440194560/1010568109507231755/unknown.png)
+
+Choose a folder which is reserved for articles. Then create a file by right clicking at the left space than select **New File**.
+
+![](https://cdn.discordapp.com/attachments/546525809440194560/1010568558750748722/unknown.png)
+
+Name a file with the extension `.md`.
+
+![](https://cdn.discordapp.com/attachments/546525809440194560/1010568899051409468/unknown.png)
+
+Following [Markdown Tutorials](#markdown-tutorial-resources) to write the articles. To observe a preview parallel with writing markdown, select this:
+
+![](https://cdn.discordapp.com/attachments/546525809440194560/1010569375952146432/unknown.png)
+
+To export the markdown, open a directory where the articles are stored then [Upload the desired markdown file to Github](#creating-file--uploading-file) and [Request for reviews](#pull-requests) in order to publish an article.
 
 ## Workflow
 
@@ -66,7 +114,15 @@ Select **Create Pull Request** and it will bring you to this page.
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009840139146641478/unknown.png)
 
-Edit title and description of your Pull Request as you like, then select **Create Pull Request**. Copy the URL and send it to 4dm Media Centre Group Chat.
+Edit title and description of your Pull Request as you like, then **Create Pull Request**.
+
+Next, **Request Reviews** by selecting **Conversation** and then select **Reviewers** according to a following image.
+
+![](https://cdn.discordapp.com/attachments/546525809440194560/1010558240528007208/unknown.png)
+
+You can Request Reviews by selecting Github usernames of members you want to assign for reviews.
+
+Another way is to send the **Pull Request URL** to 4dm Media Centre Group Chat and wait for reviews from members. 
 
 ### Reviews
 
@@ -74,6 +130,6 @@ In order to review a Pull Request from a different author, you select into a Pul
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009842057034084352/unknown.png)
 
-If you think this article still needs changes, select "Comment" or "Request Changes". Or if you think it's ready-to-go select "Approve".
+If you think this article still needs changes, select **Comment** or **Request Changes**. Or if you think it's ready-to-go select **Approve**.
 
 Normally, it's like ranking a map, you need two BNs to approve your map in order to be ranked. This one you need at least two contributors to Approve your pull request in order to merge into the main branch (and ready to be shown).
