@@ -22,7 +22,7 @@ For Article Writing, we will use **markdown (.md)** for writing articles. This f
 
 #### Notion
 
-[**Notion**](https://www.notion.so/) is a cloud based planning and notetaking. It has a feature for Markdown Importing and Exporting.
+[**Notion**](https://www.notion.so/) is a cloud based planning and notetaking application. It has a feature for Markdown Importing and Exporting.
 
 To create an article, start by creating an account on Notion, then it will bring you to a dashboard. Select **New Page**.
 
