@@ -126,7 +126,7 @@ Another way is to send the **Pull Request URL** to 4dm Media Centre Group Chat a
 
 ### Reviews
 
-In order to review a Pull Request from a different author, you select into a Pull Request URL and go to "Files changed", select "Review Changes" and add your comment
+In order to review a Pull Request from a different author, you redirect into a Pull Request URL and go to **Files changed**, select **Review Changes** and add your comments.
 
 ![](https://cdn.discordapp.com/attachments/546525809440194560/1009842057034084352/unknown.png)
 
