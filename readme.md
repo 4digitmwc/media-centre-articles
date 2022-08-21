@@ -17,6 +17,7 @@ For Article Writing, we will use **markdown (.md)** for writing articles. This f
 - [Discord](https://discord.com/) if you are a psychopath
 
 #### Markdown Tutorial Resources
+
 - [Markdown tutorial (markdownguide.org)](https://www.markdownguide.org/)
 - [Cheat Sheet (markdownguide.org)](https://www.markdownguide.org/cheat-sheet/)
 
