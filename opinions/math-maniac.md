@@ -16,25 +16,36 @@ Of course that I paid for both of them, it was not really that expensive for a s
 
 "So you all introduce yourselves first" said me.
 
-"Komirin, [tba]"
+"[komi introduces herself]"
 
-"Evening, [tba]"
+"[evening introduces himself]"
 
-"HowToPlayLN, you two can call me index, I have been pretty much around here for like 4 years, and currently studying in data science major. Currently interested in research for public transportation network, data mining and time series analysis."
+And it's my turn
+
+"So, nice to meet you all here, you two can call me index, I have been pretty much around here for like 4 years, and currently studying in data science major. Currently interested in research for public transportation network, data mining and time series analysis."
+
+Then, the normal bell rings, the pleasant aroma of the very productivity boosting drink, following with the voice
 
 "Medium Roast Americano for index, Café con leche for komi and Mocha for evening"
 
-I took a sip of coffee, it was still the best I've ever tasted, then initialize the conversation:
+We grabbed our coffee and went back to our seat.
 
-<!-- poly *what are the things in o!m that they have been applying math concepts on and why they believe these concepts are best applicable there, which of them are their favorites (with reasoning), the tools that they commonly use for such projects, and what math-oriented projects they would like to see or personally embark on in future*
+I took a sip of my coffee, it was still the best I've ever tasted, then initialize the conversation:
+
+<!-- poly *the tools that they commonly use for such projects, and what math-oriented projects they would like to see or personally embark on in future*
 
 htpln *why did you all choose to do mathemtics related projects in this game and do you enjoy them? it would be nice to try to explain these mathematical concepts in layman terms and the analogy compared to the real osu!mania environment, and do you have anything to tell to someone who is interested in your projects, or encourage people to learn mathematics?* -->
 
-"What are the things in osu!mania that you have been applying mathematical concepts?"
+"What are the things in osu!mania that you have been applying mathematical concepts? Is there any specific ones you are proud of?"
 
-[tba]
+<!-- Answer here, I'll readjust later  -->
+
+<!--  -->
 
 htpln: "Well, I actually did a plenty of stuff in applying mathematics in tournament scenes, for example the skill-based restriction system or as people know as 'skillbans'. The mathematical concepts used in this was mostly based on machine learning, which is outlier detection, regression and classification. We adjusted the concepts from the 'Local Outlier Factor' and Linear One-Class Support Vector Machine algorithm to specify the features we want from the outliers.
 
 I actually did use some mathematics in candidates selection in tryouts too, by applying Linear Programming to find the optimal player choice to maximize tournament scores based on the tryout scores."
+
+<!-- Note: There will be more sub questions here depends on the answers of the collaborators. -->
+
 
