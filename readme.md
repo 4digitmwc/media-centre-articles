@@ -133,4 +133,6 @@ In order to review a Pull Request from a different author, you redirect into a P
 
 If you think this article still needs changes, select **Comment** or **Request Changes**. Or if you think it's ready-to-go select **Approve**.
 
-Normally, it's like ranking a map, you need two BNs to approve your map in order to be ranked. This one you need at least two contributors to Approve your pull request in order to merge into the main branch (and ready to be shown).
+Normally, it's like ranking a map, you need two BNs to approve your map in order to be ranked. This one you need at least two contributors to Approve your pull request in order to merge into the main branch (for a private repository) and 1 more approval from a contributor in a public repository.
+
+**Additional Information:** All the pushes/updates/reviews will be done in the private repository, then they will be published into a public repository after the week has come.
