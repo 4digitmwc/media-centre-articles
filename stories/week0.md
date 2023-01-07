@@ -34,10 +34,10 @@ Once again, I sat down at my computer, opened and revised what was written in my
 
 Mashing hard against the keyboard for as long as I could remember, I managed to complete the task. Then I looked at the clock... 2000 years have passed. I began to write the interstellar communication protocol, documenting every detail as understood and analysed of the Extraterrestrials and safety measures to take when encountering them. Walking out of the room, I suddenly felt something... It was an unusual feeling I've never felt for millenia after the destruction, something that liberates and enables you to make the most irrational decisions in face of constraints. Inhaling the serenity of space with the laptop softly whirring in work in the background, I felt compelled to smile. It felt like a job well done for now.
 
-With the revival of my emotions from the *LNCrypted* memories, unfortunately, I lost my capability to see the world in colors. As I smiled, I could feel layers of my vision disintegrating into the space. The navy blue laptop cover seemed to fade to black and white, and so did every flower, planet, or star in sight. 
+With the revival of my emotions from the *encrypted* memories, unfortunately, I lost my capability to see the world in colors. As I smiled, I could feel layers of my vision disintegrating into the space. The navy blue laptop cover seemed to fade to black and white, and so did every flower, planet, or star in sight. 
 
 It was so long since I started to inspect those binaries, the 0s and 1s. I started to observe the beauty in the nature of fuzzy logic, but that did not satisfy my emotions at all since I couldn't see the "true essence" of life, the color. Even if someone bled or teared up, I would not be able to tell if they got hurt, or got upset. I would not be able to see if a plant was alive based on its leaf color. I would not know how to feel, even if I had the ability to. 
 
-I would rather continue being emotionless.
+The *consequences* are still haunting me.
 
 ---
