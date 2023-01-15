@@ -1,5 +1,3 @@
-# Coffee Session w/ Mathematical Maniacs
-
 It was my usual morning, I decided to grab some coffee to start my day.
 
 After I walked into a coffee shop, I ordered my favorite morning drink:
