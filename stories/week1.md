@@ -63,6 +63,6 @@ In a brief moment, the robots' task of building structures for humans to live in
 
 This was our new little home, The planet *ethos-1547b*. We decided to call it *Zion* to commemorate the spaceship which brought us to this destination. 
 
-The newfound habitat indicated the *New Era* of the humanity.
+This newfound habitat paved the way for the New Era of humanity.
 
 *ethos-1547b landing completed.*
