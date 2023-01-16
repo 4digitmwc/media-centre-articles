@@ -226,7 +226,7 @@ A fair warning though, some are extremely complex, please give up if you want, y
 
 My eyes shined like the constellations in the sky. Of course there was something that I am interested in...
 
-"I would be interested to get my hands on 3D Storyboarding! Mathematical Graphics are always fun to try and experiment. I've also been working on something similar for the performance estimation of osu!mania players... If I have more ideas for this I will make sure to tell you too!"
+*"I would be interested to get my hands on 3D Storyboarding! Mathematical Graphics are always fun to try and experiment. I've also been working on something similar for the performance estimation of osu!mania players... If I have more ideas for this I will make sure to tell you too!"*
 
 ---
 
@@ -258,7 +258,7 @@ Many features in this game, whether they be for tournament constructs, or for st
 
 That left me with the last question. I hoped this conversation would also inspire the future community as well as welcoming more project ideas. Hence, I asked:
 
-"Do you have anything to tell to someone who is interested in your projects, or encourage people to learn mathematics?"
+*"Do you have anything to tell to someone who is interested in your projects, or encourage people to learn mathematics?"*
 
 ---
 
