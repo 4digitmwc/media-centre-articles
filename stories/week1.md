@@ -65,4 +65,3 @@ This was our new little home, as the name *ethos-1547b*, we decided to call it *
 
 *ethos-1547b landing completed.*
 
-To commemorate the spacecraft which brought us here, we decided to give a nickname to this planet *Zion*.
