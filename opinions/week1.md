@@ -10,15 +10,11 @@ Taking a look around my greyed, monochromatic world, I saw two people behind me,
 
 I said without hesitation. 
 
-<!-- Totally no foobar reference here amirite -->
-
 Of course, I paid for both of their coffee. it was not really that expensive for a speciality coffee place, where they took coffee beans from various planets, blended in the ratio of a corner point optimal solution, which always gives the perfect result regardless the requirements of the customers.
 
 *"I would like to know your background first, would you mind introduce yourself a bit?"* 
 
 I said.
-
-<!-- Please introduce yourself here -->
 
 ---
 
