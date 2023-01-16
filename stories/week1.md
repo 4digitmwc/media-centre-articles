@@ -61,6 +61,8 @@ Even though the star beside it was a white dwarf, fortunately, the planet was cl
 
 In a brief moment, the robots' task of building structures for humans to live in was completed. It was the time to land our spaceship, and breathe the fresh air of this exoplanet for the very first time.
 
-This was our new little home, The planet *ethos-1547b*. We decided to call it *Zion* to commemorate the spaceship which brought us to this destination.
+This was our new little home, The planet *ethos-1547b*. We decided to call it *Zion* to commemorate the spaceship which brought us to this destination. 
+
+The newfound habitat indicated the *New Era* of the humanity.
 
 *ethos-1547b landing completed.*
