@@ -34,7 +34,7 @@ Now, the water should be boiling, so take your pasta and start to cook it, once 
 
 ## Nicaragua
 
-**A new and fresh team arose in the 4 Digit MWC! Really feels good to see new faces in this tournament. Nicaragua team, how do you feel getting that spot in the Top 32?**
+**A new and fresh team has risen to the challenge of 4 Digit MWC! It always feels good to see new faces in this tournament. Team Nicaragua, how do you feel getting a spot in the Top 32?**
 
 **KevinRJF**: First of all, I feel genuinely proud of my teammates, they’ve became also my friends because of this game, and I know we reached this point not only because of our great effort and practice, but because of the great motivation they showed me throughout this Qualifiers stage. 
 LLB_BBX: Feels unreal, somehow we made it in but at the same time it's like I lose hope, the fact that we're going against Singapore as the first round sucks, there is no hate against them anyways.
