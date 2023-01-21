@@ -2,7 +2,9 @@ It’s only been 5 days since the Crescent Moon Lounge has opened a new kitchen 
 
 Needless to say, I will be fighting against the long working hours of F&B businesses, trying to get creative with the dishes and striking the taste buds of the residents of Zion. It’s the only way I can prove my skills as a chef, and potentially leave middle management for good. But I’m prepared and ready to face that.
 
-Fortunately for me, I’ve been experimenting with new recipes using revolutionary ingredients, such as the curiously colourful meats being sold along the streets of Zion, one of these which took off amongst the kitchen staff: the *Zion Carbonara*. 
+Unlike on Earth, the ingredients we've packed from our old home were in high demand, and the supply was limited. Prices were rocket high and it is unsustainable to keep purchasing the same ingredients in the same amounts as before. Profits for the restaurant were slowly reducing to a net zero, and further reductions in profits will only lead to people being fired, or salaries being cut. In the worst scenario, I'll be out of a job in a few weeks, with no meal welfare or currency to sustain myself in this vast space.
+
+Desperate as I was, I tried to find alternative ingredients and had the altered dishes tested with the other chefs, for example the *Plant-Based Meat*, but that did not taste like the original meat. That left us with the only other choice, which was to experiment with new recipes using exotic and radical ingredients, such as the curiously colourful meats being sold along the streets of Zion. Among these dishes, one of them took off amongst the kitchen staff: the *Zion Carbonara*. 
 
 I attach the recipe here along with this diary entry. Hopefully, one day, when this dish takes off, I can claim the credit where it’s due, and reap the rewards such that I may be able to buy myself a comfortable bed to sleep in. I await the day!
 
@@ -41,8 +43,7 @@ I attach the recipe here along with this diary entry. Hopefully, one day, when t
 *Hello? Is this thing on? I’m trying out this new audio log thingy assigned to me, but they
 conveniently forgot the instruction manual.*
 
-Anyway, this is Researcher [EXPUNGED] of the ETI Research Department, currently stationed on the planet ethos-1547b, the time as of this
-recording is [REDACTED]. This is a formal
+Anyway, this is Researcher [EXPUNGED] of the ETI Research Department, currently stationed on the planet ethos-1547b, the time as of this recording is [REDACTED]. This is a formal
 documentation of case COVID-1547-0.
 
 At exactly 25:13 Stellar Uniform Time, a complaint had been filed by a customer stating that their
