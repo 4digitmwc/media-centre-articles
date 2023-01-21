@@ -41,8 +41,8 @@ I attach the recipe here along with this diary entry. Hopefully, one day, when t
 *Hello? Is this thing on? I’m trying out this new audio log thingy assigned to me, but they
 conveniently forgot the instruction manual.*
 
-Anyway, this is Researcher [EXPUNGED] of the ETI Research Department, the time as of this
-recording is [REDACTED], currently stationed on the planet ethos-1547b. This is a formal
+Anyway, this is Researcher [EXPUNGED] of the ETI Research Department, currently stationed on the planet ethos-1547b, the time as of this
+recording is [REDACTED]. This is a formal
 documentation of case COVID-1547-0.
 
 At exactly 25:13 Stellar Uniform Time, a complaint had been filed by a customer stating that their
