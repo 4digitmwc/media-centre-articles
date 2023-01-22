@@ -1,5 +1,3 @@
-# percy_grammaredit
-
 # Percy Long Notes (LNs)
 
 I’m sure everyone who has been around the mania scene for more than a few months has heard of Percy, and may even be using it. No, it is not a person. You may have also heard players call them “Percys”, “cut LN”, “Short LN”, “Cheat LN”, and many more. Hopefully by the end of all this you will have a clearer idea of what Percy LNs are and the impact they have on gameplay.
