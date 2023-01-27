@@ -146,16 +146,6 @@
 
 **Frossno**: Take you, Arccat!
 
-## Poland
-
-**First off, congratulations on your win against Mexico, the higher seeded in your bout of the Round of 32! It was a well fought battle, with your team emerging victorious from the frantic back-and-forth with a 5-2 win. How do you feel about the successful seed upset? Did you feel there were any important factors leading to the success?**
-
-**The team composition of Poland seems to be rather interesting this year, featuring fresh new faces to the international scene, as well as players who came from previous iterations of MWC and 4DM -- How does the team coordinate with one another and how do your strategies work?**
-
-**Is the team satisfied with their performance in the tournament by far?**
-
-**Crazy enough as it seems, your team will be squaring off against the 1st seeded Singapore. Are there any changes and improvements your team might want to make relative to past performances? Do you want to say anything to Singapore and the other teams playing in 4DM?**
-
 ## Thailand (nanonbandusty)
 
 **Firstly, congratulations for the win against Chile! I'm pretty sure it is a really good start for Thailand Team here. Are you satisfied with your win, or a performance of the team so far?**
