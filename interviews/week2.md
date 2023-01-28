@@ -146,6 +146,8 @@
 
 **Frossno**: Take you, Arccat!
 
+---
+
 ## Thailand (nanonbandusty)
 
 **Firstly, congratulations for the win against Chile! I'm pretty sure it is a really good start for Thailand Team here. Are you satisfied with your win, or a performance of the team so far?**
@@ -180,6 +182,8 @@ My expectation here for this tournament is firstly, beat USA then all I want is 
 Personally, I don't cook, but if I need to tell the recipe for tom yam kung it would be simply using the seasoning package from the nissin instant noodle tom yam kung flavor.
 
 **Thank you for participating the interview with us! And I hope to see you at the top as well! May the propaganda be with you!**
+
+---
 
 ## Poland
 **First off, congratulations on your win against Mexico, the higher seeded in your bout of the Round of 32! It was a well fought battle, with your team emerging victorious from the frantic back-and-forth with a 5-2 win. How do you feel about the successful seed upset? Did you feel there were any important factors leading to the success?**
