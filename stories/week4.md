@@ -43,5 +43,3 @@ Surely someone was up to no good, and there had to be a way of finding out who d
 Upon further investigation, through the countless papers and databases, we were able to find her name, and her evidence of existence in this universe. Perhaps she is the key that will connect all the dots between the virus outbreak, the faked murder scene, and this ridiculous legend.
 
 Her name was *polychroma*.
-
-hello
