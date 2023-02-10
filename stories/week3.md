@@ -1,3 +1,13 @@
+## Disclaimer
+
+This is a work of fiction. Any resemblance to actual people, living or dead, or actual events, is purely coincidental.
+
+Readers discretion is advised.
+
+---
+
+## Antagonism
+
 Walking through the fields of Zion does not feel as liberating as Earth did. It lacks the abundance of grass to touch, flowers to smell, and the fauna to adore. More importantly, even if they did exist, I would not be able to see any of it in its full glory. It is a depressing reality to not know how to feel, even when i innately know how to do that. All I can tell, is that the celestial sea above us is eternally black, with the sparsely populated stars occasionally shining brighter then usual. They simply felt like polka dots in the void, which felt ever so familiar to me that it almost gave me *deja vu*. I could never really put my words to clearly explain what that was.
 
 Trudging along the streets of a normally desolate town, a huge crowd of people huddled around at the entrance of a derelict building. It was needless to say that something weird was happening down there. Naturally curious as I was, I decided to head down to that building and figure out the situation.
