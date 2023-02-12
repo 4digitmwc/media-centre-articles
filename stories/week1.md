@@ -1,3 +1,13 @@
+## Disclaimer
+
+This is a work of fiction. Any resemblance to actual people, living or dead, or actual events, is purely coincidental.
+
+Readers discretion is advised.
+
+---
+
+## Wandering
+
 Two thousand years, to be precise, that we have been *wandering through the stars*, through the unidentifiable star clusters, and solar systems. The chance of finding the habitable planet is still the same, regardless of time. The memoryless property of this time exponentiates the desperation of the crewmates, as they had been working hard on using the power of immortality. The remaining fuel of this spaceship was getting lower and lower, and there was no resource left for another year. Until there was an alert from the spaceship's internal systems.
 
 *beep*

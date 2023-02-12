@@ -1,3 +1,13 @@
+## Disclaimer
+
+This is a work of fiction. Any resemblance to actual people, living or dead, or actual events, is purely coincidental.
+
+Readers discretion is advised.
+
+---
+
+## Navigating the Uncertainty
+
 The girl I had picked up from the streets, left chaos behind for Zion in the news of her mysterious death. 
 
 It seems that being isolated on the spaceship for 2 millenia had given me an alibi strong enough to be involved in the girl's death. However, it can't be said the same for everyone else. There was visible confusion and conflict among the residents as they could not tell paint from blood, or orange from ball, accrued to the colors leaving their eyes. *Miscommunication* and *mistranslation* of sentiment was rampant as many got lynched by the color tests, and lots of suspicion arose between the closest of friends.

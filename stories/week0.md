@@ -1,3 +1,13 @@
+## Disclaimer
+
+This is a work of fiction. Any resemblance to actual people, living or dead, or actual events, is purely coincidental.
+
+Readers discretion is advised.
+
+---
+
+## Infinity
+
 The year is 2023. Today, I sit here on my bed as warm as the heater underneath it, but with the cold of dead space engulfing any espirit within me. The multiple pipes inserted into my arms that inject chilly liquids up my spine remind me of the mortality that meets my eyes and threatens to keep them shut forever. Every moment I move my body to grab my phone invites otherworldly torture, and walking to the toilet feels like walking on the flames in the 9th circle of hell.
 
 It is with every moment that I experienced pain like this, that I felt like I bore the punishment for desiring immortality, just as the inhabitants of this spacecraft. I was given none of the Arts; there was not enough for me, just as it was needed to necromance Logan back to life. It was also convenient for everyone else on-board to eject a crewmate who’s already pushing the border of life and death, by letting the inevitable consume them.

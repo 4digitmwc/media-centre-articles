@@ -1,3 +1,13 @@
+## Disclaimer
+
+This is a work of fiction. Any resemblance to actual people, living or dead, or actual events, is purely coincidental.
+
+Readers discretion is advised.
+
+---
+
+## Contamination
+
 It’s only been 5 days since the Crescent Moon Lounge has opened a new kitchen headquarters in the capital of Zion. The days of serving deep fried prawns and seafood have been gruelling and torturously long, and at the end of the day my soul would have left my body in exhaustion. Yet, the turnover by our former manager and an appointment by the big boss has made me the new Head Chef of this branch. 
 
 Needless to say, I will be fighting against the long working hours of F&B businesses, trying to get creative with the dishes and striking the taste buds of the residents of Zion. It’s the only way I can prove my skills as a chef, and potentially leave middle management for good. But I’m prepared and ready to face that.
