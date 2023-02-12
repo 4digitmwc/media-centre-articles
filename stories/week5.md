@@ -6,7 +6,7 @@ Readers discretion is advised.
 
 ---
 
-## Commitment
+## Resolve
 
 **Breaking News**
 
