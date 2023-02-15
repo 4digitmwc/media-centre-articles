@@ -16,7 +16,7 @@ In osu!mania, patterns describe the sequence in which notes are placed in the ma
 
 Before we get into patterns, we have to understand some basic terminology used to describe notes. Single notes are self-explanatory, it is just a single notes that has to be hit. Jumps are 2 notes that have to be hit at the same time with two fingers. These are described as jumps as in DDR, the player has to jump to be able to hit the two notes at the same time. Hands are three notes that have to be hit at the same time. This again is derived from DDR, where a player has to use their hands to hit the notes as well. And finally, quads are 4 notes that have to be hit at the same time. And, you guessed it, the term is derived from DDR as well. 
 
-This term is used to describe a series of single consecutive notes that have to be hit in quick succession. This is one of the main patterns in the game, with many other patterns branching out from it. An example would be jumpstreams, which are streams with 2 note chords mixed in. 
+Moving on, we have a very common pattern seen in osu!mania maps, streams. This term is used to describe a series of single consecutive notes that have to be hit in quick succession. This is one of the main patterns in the game, with many other patterns branching out from it. An example would be jumpstreams, which are streams with 2 note chords mixed in. 
 
 Jacks are used to describe two or more repeating notes on the same column. The name comes from the jackhammer-like motion your fingers make while playing these patterns. Again, jacks can be categorised into many subsets, but the most common patterns you will see are Chordjacks; jacks that involve three or more columns, and speed-jacks; jacks that change columns in rapid succession.
 
