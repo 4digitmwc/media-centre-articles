@@ -154,7 +154,7 @@ lovely_hyahya：(´＞ᴗ･\`) Super Idol de xiao rong, dou mei ni de tian, ba 
 
 *(´＞ᴗ･\`) Super Idol的笑容，都没你的甜，八月正午的阳光，都没你耀眼，热爱 105 °C 的你，滴滴清纯的蒸馏水~*
 
-(´＞ᴗ･`)
+(´＞ᴗ･\`)
 
 Super idol’s smile, Is not as sweet as yours
 The sunlight at noon in August, Does not shine like you
