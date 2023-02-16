@@ -2,27 +2,27 @@
 
 **How are you guys doing?**
 
-**riunosk**: i want to eat tze char fried rice
+**riunosk**: I want to eat tze char fried rice
 
 **awdse22**: Just the usual, dying inside from life and commitments and watching our team in shambles
 
 **oyama mahiro**: I am currently having an iden tei tei meltdown!
 
-**McButt**: i finally finished my assignments just to start slaving away at group project for the next 2 weeks…
+**McButt**: I finally finished my assignments just to start slaving away at group project for the next 2 weeks…
 
 **Neon-Hooray**: I caught a flu and sneeze during 4dm matches.
 
-**TheOPmeme**: i am in shambles, the rest are doing fine though
+**TheOPmeme**: I am in shambles, the rest are doing fine though
 
 **Congratulations on your victory against Canada! It was a very close battle against Canada. As you guys got revenge against the team that knocked you out of 4DMWC 2022, What was the thought process like for you guys to fight against a tough team?**
 
-**riunosk**: neon horror no more miss in tb plez
+**riunosk**: Neon horror no more miss in tb plez
 
 **awdse22**: Even as the captain of the sg 4dm team last year, I don't really think of it as a revenge in anyway, but nothing can get rid of the scheduling PTSD I got from Canada and how much of a shitshow it was for 4dm sg team last year in general. Personally I thought we will lose against canada anyway so like, just play
 
-**oyama mahiro**: overall i was just malding at the triple jacks in the mappool
+**oyama mahiro**: Overall i was just malding at the triple jacks in the mappool
 
-**McButt**: we were kinda scared actually because we knew canada had like the accuracy of all time
+**McButt**: Qe were kinda scared actually because we knew canada had like the accuracy of all time
 
 **Neon-Hooray**: Canada is a really strong team, consisting of 6 players that excel in multiple different skillsets. Since the start of 4dm, I have seen Canada's scores, all of them having really really good ratios and accuracy. Canada is a well-rounded team overall and they seem to be consistent in every single skillset, making it look like no one stood a chance against them. With such a strong performance set by them for the past few rounds, it was especially scary to be facing such a tough opponent.
 
@@ -30,13 +30,13 @@
 
 **For the first time ever in Singapore’s history in 4DMWC. You guys will be finishing in the Top 3. How do you guys feel knowing Singapore will guarantee themselves their best finish yet?**
 
-**riunosk**: first time earning money online
+**riunosk**: First time earning money online
 
 **awdse22**: Idk, for me I don't rly care about history. We get money so yay I guess.
 
-**oyama mahiro**: i feel sad that we will probably not get a cat because im kinda hungry and i want to eat the cat
+**oyama mahiro**: I feel sad that we will probably not get a cat because im kinda hungry and i want to eat the cat
 
-**McButt**: im happy that we get some free $$
+**McButt**: I'm happy that we get some free $$
 
 **Neon-Hooray**: I feel sick
 
@@ -66,7 +66,7 @@
 
 **oyama mahiro**: i expect to see my combro cup teammate molli!!! Maybe i can say owo and they instantly let us win for free  (ゝω・´★)
 
-**McButt**: i will be shivering my timbers as china is the good (My teammate of another mania tournament have one China 4dm player.maybe i can say owo to him and make us win the game (ゝω・´★)) I LOVE YOU MOLLI
+**McButt**: i will be shivering my timbers as china is the good (My teammate of another mania tournament have one China 4dm player. Maybe i can say owo to him and make us win the game (ゝω・´★)) I LOVE YOU MOLLI
 
 **Neon-Hooray**: I expect China
 
@@ -84,15 +84,15 @@
 
 **How are you guys doing?**
 
-**Einar**: Welcome to lazada service centre, what can i help you
+**Einar**: Welcome to lazada service centre, what can i help you?
 
-**Tosai-**: feeling good, just woke up from tidur
+**Tosai-**: Feeling good, just woke up from tidur.
 
 **JayLye**: Pretty good.
 
-**Cryolien**: Doing well, could be better, could be worse
+**Cryolien**: Doing well, could be better, could be worse.
 
-**StyGix**: Just got back from work.. i want to tidur
+**StyGix**: Just got back from work.. i want to tidur.
 
 **Congratulations on winning against Vietnam & Thailand. It was a close call against Vietnam but you guys got it together, winning TB! And then you guys smoked Thailand to advance into the Finals week. What was Malaysia’s strategy coming into the Semi-Finals week?**
 
@@ -112,10 +112,10 @@ Against Thailand though, with Einar coming back, our morale instantly came back 
 
 **So for me, I personally knew a lot of you guys from various tournaments I’ve staffed for previously. This team is filled with a lot of tourney players with notable accomplishments. (Einar - TMC1 Champion, VLT:MT Runner-Up, JayLye & StyGix - Top 6 in Osu!Mania Malaysia Tournament 2, Cryolien - TMC1 Champion & 4kMWC 3rd place finisher (2021), Ju1ny - Top 8 in Osu!Mania Malaysia Tournament 1, Tosai - LN3 & 4DMWC 2021) Do you guys think that the tournament experience you all have amassed over the years has really given you guys not only an edge to perform well, but also to adapt into this tournament?**
 
-**Tosai-**: personally i have too less experience to speak compared to the others but nerves are definitely still holding me back a lot of the time
-also i didnt even got into omln3-seed 65 sadkek
+**Tosai-**: Personally i have too less experience to speak compared to the others but nerves are definitely still holding me back a lot of the time.
+Also i didnt even got into omln3-seed 65 sadkek
 
-**JayLye**: for me yeah, I always tried to figure it out which thing I should improve every tournament I played. But sometimes have to depend on situations, I might did bad for some matches due nerves or something like that.
+**JayLye**: For me yeah, I always tried to figure it out which thing I should improve every tournament I played. But sometimes have to depend on situations, I might did bad for some matches due nerves or something like that.
 
 **StyGix**: Tbh i can say that i can deal with nerves better now compare to when i first joined 4DMWC 2021 where it was my first ever tournament. It also helps me like manage time when to practice and not to over practice to avoid mindblocked on some map. So yeah the experience really helps me going into this one..
 
@@ -134,14 +134,14 @@ Basically whether it's a tournament setting or not, I'll pretty much be consiste
 
 **JayLye**: I'm not really sure to be honest, mostly I will do some analysis and practice a lot before each match starts.
 
-**Tosai-**: especially for 4dm, the bar have definitely been set a lot higher every year, its honestly quite hard to prepare anything beforehand since we cannot gauge how hard the pool will be
+**Tosai-**: Especially for 4dm, the bar have definitely been set a lot higher every year, its honestly quite hard to prepare anything beforehand since we cannot gauge how hard the pool will be
 
 **Einar**: Jokes aside, as a captain i think all of them did really well so their own part.
 Most of the time I'm the one who keeps telling them to just try to score highest at they can. Enjoy the game is the most important anyways (you guys better say agree) :) 
 
 **Cryolien**: (no)
 
-**Tosai-**: quitting the game is more important
+**Tosai-**: Quitting the game is more important
 
 **StyGix**: Tidur is more important
 
@@ -165,7 +165,7 @@ Most of the time I'm the one who keeps telling them to just try to score highest
 
 **JayLye**: I will say there's gonna be more tough match coming up. But I will still try my best.
 
-StyGix: And probably revenge match against Brazil if we met each other again.
+**StyGix**: And probably revenge match against Brazil if we met each other again.
 
 (Malaysia puts :Guil:)
 
@@ -178,7 +178,7 @@ Even Semis on LB is not what I expect but at least we’re here.
 
 **Cryolien**: But we have JayLye!!!!!!
 
-**Tosai-**: true Jay will carry
+**Tosai-**: true, Jay will carry!
 
 **StyGix**: JayLyeGaming
 
@@ -200,7 +200,7 @@ Even Semis on LB is not what I expect but at least we’re here.
 
 **Axelerrixx**: BOGNYUR JEE MAPLE (🍁) ACKEOLQIUEIOS
 
-**Svp-**: i just woke up like 20 mins ago and missed the whole match :)
+**Svp-**: I just woke up like 20 mins ago and missed the whole match :)
 
 **Twitch Chat**: I am doing well. woke up at 7am for a nice early osu mania session. I live in the land of cowboys and wheat fields
 
@@ -212,7 +212,7 @@ Even Semis on LB is not what I expect but at least we’re here.
 
 **Axelerrixx**: Honestly though, I thought that we would lose 6 - 3 at best, we did way better than I expected. Losing the tiebreaker hit hard though. (🍁) 
 
-**Twitch chat**: i'm not gonna lie i wasn't expecting the match to be that close. At the start of the match we were missing axelerrixx and svp-, so we had to sub in AmariaRice for chordjack. Luckily axel started shredding as soon as he got home and Singapore avoided LN picks so svp being gone wasn't that big of an issue for us.
+**Twitch chat**: I'm not gonna lie i wasn't expecting the match to be that close. At the start of the match we were missing axelerrixx and svp-, so we had to sub in AmariaRice for chordjack. Luckily axel started shredding as soon as he got home and Singapore avoided LN picks so svp being gone wasn't that big of an issue for us.
 
 **Axelerrixx**: I did not. My coat got caught on a chair when I got home and then I slipped.
 
@@ -232,13 +232,13 @@ Even Semis on LB is not what I expect but at least we’re here.
 
 **AmariaLove**: The winds of Fate blows wherever it wants. Only the braves will try to face it. Canada is a team that works together to go where we please. If we want to win, we will conquer. The voices will NOT win. We will show everyone (except if we face another asian team where we have to have a very bad scheduling which is very unlikely since every team are asians rn)  that we can bring it home. FOR THE MOTHERLAND.
 
-**Twitch Chat**: Yeah we think we have a pretty good chance, we just need to not get timezoned and start popping off
+**Twitch Chat**: Yeah we think we have a pretty good chance, we just need to not get timezoned and start popping off.
 
 **That might be a problem since Winner's Finals is an all Asia matchup. So I figured Grand Finals week is going to be hell for you guys to schedule with if that time does come for you guys.**
 
 **AmariaLove**: It really is hard. You know Pork, thing aside, we never get a good time from an asian team. Last year, we played at 5 AM for an Asian team. And even when we played at 5 AM, THEY STILL COMPLAINED. Last year, we did everything for these teams so they get a good time.
 
-**Twitch chat**: to be fair, teams like HK and Singapore are just really hard to schedule for. Both teams need to play at a bad time. It's what we get for being born in canada.
+**Twitch chat**: To be fair, teams like HK and Singapore are just really hard to schedule for. Both teams need to play at a bad time. It's what we get for being born in Canada.
 
 **So lastly, it's now confirmed that Canada will be playing against Malaysia in the Loser's Finals. And waiting for you guys potentially is either Brazil or Hong Kong (the team that you guys knocked down in the first place). What is Canada's mindset now heading into the Loser's Finals week?**
 
@@ -246,15 +246,15 @@ Even Semis on LB is not what I expect but at least we’re here.
 
 **Yes. Malaysia won against Thailand a couple minutes before your match with Singapore happens. (6-1)**
 
-**Svp-**: we play game, win game, go home. but now we just gotta do it twice in losers bracket
+**Svp-**: We play game, win game, go home. but now we just gotta do it twice in losers bracket.
 
-**Twitch chat**: ^ we fought our way through losers last year we will do it again
+**Twitch chat**: ^ We fought our way through losers last year we will do it again.
 
 **AmariaLove**: I think we would much prefer Hong Kong winning their loser's final match. For what it is from Malaysia. I think it's like playing Singapore but with a bit worse rice ability. We will see.
 
 **And obviously last year, Canada came up short finishing in 4th place. Just 1 spot shy of the illustrious Top 3 finish. But regardless, Canada is still eyeing for the top prize right?**
 
-**AmariaLove**: Yes we are. Always did. Always will
+**AmariaLove**: Yes we are. Always did. Always will.
 
 **Twitch chat**: I think if you go into any competitive setting not playing for 1st place you are doing it wrong.
 
