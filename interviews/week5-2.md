@@ -18,7 +18,7 @@ Molli: My teammates are too strong so I only played the sv, and just participate
 *我的队友太给力了以至于我只上了一次sv，所以我一直在场下为他们加油(啦啦队式队员实锤x)，中间3：2时那次事故简直快让大家的心脏都跳出来了，但最后还是靠大家的实力赢下了那关键的一分，这是至关重要的。*
 
  
-Cutest_hyahya：(>д<;) It's not easy. Brazil's overall acc is much higher than ours, and we are ready to play TB before. As an alpha dan player, it is not easy to compete with a team much stronger than me and win. 
+lovely_hyahya：(>д<;) It's not easy. Brazil's overall acc is much higher than ours, and we are ready to play TB before. As an alpha dan player, it is not easy to compete with a team much stronger than me and win. 
 
 *(>д<;) 非常不容易，巴西的整体acc比我们要高不少，我们在这之前已经做好了打TB的准备。作为一个alpha人，和比自己实力高不少的队伍比赛并且赢了来说，很不容易。*
 
@@ -204,29 +204,29 @@ lovely_hyahya: whAt's wrOng wIth gEnshIn ImpAct !!!
 
 **So congratulations on advancing to the Finals week! You guys start off your Semi-Finals week against the United Kingdom and won 6-4, and then you guys swept against the United States! I want to know what was the strategy coming into Semi-Finals week against the United Kingdom & the United States.**
 
-**DC2_727**: nothing much. because the nerves always get me every round in match. you know, just play the game and hit all the notes as much as you can.
+**DC2_727**: Nothing much. Because the nerves always get me every round in match. you know, just play the game and hit all the notes as much as you can.
 
-**Roy2206**: I advised my team to focus on ln and hb when facing uk, and then we focused on rice when facing US. Also trying our best to practice sv properly.
+**Roy2206**: I advised my team to focus on ln and hb when facing UK, and then we focused on rice when facing US. Also trying our best to practice sv properly.
 
-**Pofnkul**: Against United states, we mainly focused on taking advantage of their low acc on rice maps. A lot of the time we could out score an fc with a high acc run even if we didn't fc
+**Pofnkul**: Against United States, we mainly focused on taking advantage of their low acc on rice maps. A lot of the time we could out score an fc with a high acc run even if we didn't fc.
 
-**[Mom] xbob**: Before the UK match happened we actually noticed that they are quite decent in LNs, so we decided to go for rice picks and some SVs and that actually worked out for us. Then when the US match happened, we also had a similar analyzation strategy by checking their previous performance in semis round 1
+**[Mom] xbob**: Before the UK match happened we actually noticed that they are quite decent in LNs, so we decided to go for rice picks and some SVs and that actually worked out for us. Then when the US match happened, we also had a similar analyzation strategy by checking their previous performance in semis round 1.
 
 **So this is the first time ever in 4DMWC that Hong Kong will be advancing into the Finals Week for the first time. As a team of 6 players who are making history for their country, how do you guys feel about advancing into the Finals Week, + getting a Top 6 finish no matter what?**
 
-**[Mom] xbob**: I'm actually satisfied with how our country has been performing this year, considering the fact that the last 2 years in 4dm we never reached on a stage this far and I'm really honored to be a part of this team. To reach the finals stage is already beyond our expectations
+**[Mom] xbob**: I'm actually satisfied with how our country has been performing this year, considering the fact that the last 2 years in 4dm we never reached on a stage this far and I'm really honored to be a part of this team. To reach the finals stage is already beyond our expectations.
 
 **Pofnkul**: It honestly feels crazy. I didn't expect to even make it into the team so im very happy with how things turned out. Although I don't really know too much about how this team did in the past since im relatively new.
 
 **DC2_727**: We actually didnt expect we have come to this far from 4dm2023, last year is actually quite a tragedy. But in this year, fortunately we managed to get back some former players from 4dm3 which is miso and holysteven. These guys are always the mvp of the team.
 
-**Roy2206**: It's a miracle to gather a group of skillful people in hk to perform this well compared to last year. Im also glad to contribute in this team. But of course it is better to aim higher for better results in 4dm2023.
+**Roy2206**: It's a miracle to gather a group of skillful people in hk to perform this well compared to last year. I'm also glad to contribute in this team. But of course it is better to aim higher for better results in 4dm2023.
 
 **So obviously, you guys want to make it into Top 3, and maybe take it all, right?**
 
 **Roy2206**: ofc! But it’s not a must. I mean, the attitude is important.
 
-**Pofnkul**: top 3 would be great but it feels highly unlikely. No reason not to try though!
+**Pofnkul**: Top 3 would be great but it feels highly unlikely. No reason not to try though!
 
 **DC2_727**: We will do our best. Self-confidence is the most important.
 
@@ -238,17 +238,17 @@ lovely_hyahya: whAt's wrOng wIth gEnshIn ImpAct !!!
 
 **Pofnkul**: Brazil will be a tough opponent. I feel like our scores are pretty evenly matched and there's a chance that the difficulty of the next pool may affect how the matchup goes. As for our conditional opponent my only real comment is that i don't want to have to matchup against Canada again. I'd rather not have the potential to lose to the same team twice.
 
-**Roy2206**: it is definitely going to be tough. Most of us are struggling to play semifinals mappool well. It's hard to imagine how hard the finals mappool. However no matter what we will try our best to play against them seriously. They are all very expert players anyways, assuming all of us can make this far.
+**Roy2206**: It is definitely going to be tough. Most of us are struggling to play semifinals mappool well. It's hard to imagine how hard the finals mappool. However no matter what we will try our best to play against them seriously. They are all very expert players anyways, assuming all of us can make this far.
 
-**[Mom] xbob**: Team Brazil is actually a quite powerful force as far as I know by watching their previous performances, all I can say is may the best country win and if we manage to go to the conditional loser's finals match, we hope to perform as good as possible considering the fact that the other 4 countries are also insanely good in some aspects
+**[Mom] xbob**: Team Brazil is actually a quite powerful force as far as I know by watching their previous performances, all I can say is may the best country win and if we manage to go to the conditional loser's finals match, we hope to perform as good as possible considering the fact that the other 4 countries are also insanely good in some aspects.
 
 **One more question: has the Hong Kong osu!mania community is aware of your guys' amazing performance in this year's 4DMWC? If so, how do they feel about you guys advancing?**
 
-**Pofnkul**: I don't know anything about the rest of the community but I am happy that i've had the chance to meet all these new people
+**Pofnkul**: I don't know anything about the rest of the community but I am happy that I've had the chance to meet all these new people.
 
 **[Mom] xbob**: Yes, as a matter of fact many of them usually watch us perform in 4DM as well, I'm sure that they are quite proud of how far we have came in this edition of 4DM and we hope to deliver more as we advance in the finals
 
-**DC2_727**: yes the community always cheer for us, it feels great when there are actually have some people supporting us.
+**DC2_727**: Yes, the community always cheer for us. It feels great when there are actually have some people supporting us.
 
 **Roy2206**: They set up the tryout. We're very glad to have their support. Other than 6 of us they also helped us a lot at analyzing teams. They are really proud of us making this far.
 
@@ -266,47 +266,47 @@ lovely_hyahya: whAt's wrOng wIth gEnshIn ImpAct !!!
 
 **Znow**: 50/50, I’m not feeling the best after that match
 
-**Retina**: still stings about that loss, a bit devastated with my performance and could've done better, but we put up a fight on every match to our best potential at that moment
+**Retina**: Still stings about that loss, a bit devastated with my performance and could've done better, but we put up a fight on every match to our best potential at that moment
 
-**Sky**: Im doing great, im a bit disappointed with the match but overall happy with our tournament performance
+**-Sky-**: I'm doing great, im a bit disappointed with the match but overall happy with our tournament performance
 
 **I'm sorry that you guys are eliminated from 4DMWC. The bright side is that you didn't get eliminated in the first semi-finals match as you won against Japan. But unfortunately, Hong Kong was there for you guys as you guys got swept by Hong Kong in the conditional match. What happened to the USA during the Semi-finals week?**
 
 **Seth**: They just got the better of us tbh. We went all out but it just wasn't enuf. I def made some questionable choices n i'm a lil sad about that, but they were just the better team today :shrugFreg:
 
-**-Sky-**: I think something in us died after we lost against singapore, something just felt off about the team. Everyone (except for znow) was demotivated and didnt want to grind out the mappool. I think miscalculating our opponent and a bit of bad luck also seemed to push us to lose against HK
+**-Sky-**: I think something in us died after we lost against Singapore, something just felt off about the team. Everyone (except for znow) was demotivated and didn't want to grind out the mappool. I think miscalculating our opponent and a bit of bad luck also seemed to push us to lose against HK.
 
-**Znow**: i was being too stubborn and thought i had the entire plan in my head, i watched hong kong vs united kingdom and i thought we had it all, i was so certain that my thought process would work but i should've listened to seth's concerns about it. i thought that we could easily gain our points in sv 2. as for the rest of it, i just threw really hard and under performed
+**Znow**: I was being too stubborn and thought I had the entire plan in my head, I watched Hong Kong vs United Kingdom and I thought we had it all, I was so certain that my thought process would work but I should've listened to Seth's concerns about it. I thought that we could easily gain our points in SV 2. as for the rest of it, I just threw really hard and under performed.
 
-**Scep**: i honestly was being really phased by the unreal talent that was presented this year and other teams respectfully, as someone who had entered this tournament years prior, the talent and team effort has evolved immensely since then and it did take a huge toll for some of us
+**Scep**: I honestly was being really phased by the unreal talent that was presented this year and other teams respectfully, as someone who had entered this tournament years prior, the talent and team effort has evolved immensely since then and it did take a huge toll for some of us.
 
-**Retina**: i was definitely starting to worry about my client a lot. considering what was happening with znow and i's client always messing with my gameplay making me have to hit 25 ms earlier, i couldn't really feel too prepared for the upcoming matches and kinda just tried to wing it as best as i could. unfortunately one person can only do so much for a team. my client has always bugged at least once per match we play, in thailand's match, i believe the speed pick, my client had the bug where i have to hit 25 ms early, but i managed to v1 ss it if i recall correctly
+**Retina**: I was definitely starting to worry about my client a lot. Considering what was happening with Znow and I's client always messing with my gameplay making me have to hit 25 ms earlier, I couldn't really feel too prepared for the upcoming matches and kinda just tried to wing it as best as I could. Unfortunately one person can only do so much for a team. My client has always bugged at least once per match we play. In Thailand's match, I believe the speed pick, my client had the bug where I have to hit 25 ms early, but I managed to V1 SS it if I recall correctly.
 
 **(For Znow) So I noticed you disconnected not once, but twice during your match vs Hong Kong. Was it the same technical issues you were dealing with? And had if you didn’t get disconnected, did you think the United States would’ve won on those maps based on what the rest got.**
 
-**Znow**: it seems like it was the same issue but in a different way somehow. the first time the map loaded weirdly with the background not loading as i do not play with background dim. my game crashed at the very last note but i managed to have it recorded. that map we were losing regardless of my score. the second time against hong kong my game crashed midway with the background loading so i thought we were fine. i'm not really sure if we would've gotten the point seeing how i performed on everything else
+**Znow**: It seems like it was the same issue but in a different way somehow. The first time the map loaded weirdly with the background not loading as I do not play with background dim. My game crashed at the very last note but I managed to have it recorded. That map we were losing regardless of my score. The second time against Hong Kong my game crashed midway with the background loading so I thought we were fine. I'm not really sure if we would've gotten the point seeing how I performed on everything else.
 
 **For the United States, did you feel like this team performed up into the team's expectations? Any takeaways from the Semi-Finals week?**
 
 **_Seth**: In terms of all of the tournament I feel like everyone on our team has really stepped up in their own way.  When I was picking the team I didn't really know where we'd land at all. I'm just glad we finally got past QF's and I hope the perception of 4dm's team USA is a little better. Ideally I would like to return for one more year, and if not I'm confident USA will be left in very competent hands.
 As for Semi-Finals, my takeaway is physical is going to be a hot commodity for future 4dm's and tournaments in general. Seeing the progression of the pools is really scary, and is gonna be a big push for me to really start getting more physical as a player. 
 
-**Znow**: i’m really proud of my teammates and i couldn’t have asked any other teammates. i’m sure there were times where we could’ve done better but we did good in my opinion. i didn’t have very good expectations for late game so seeing how we performed really surprised me. i guess the main takeaway from all of this is to always believe in your teammates and to have a strong connection because without friendships it isn’t a team, it’s just a bunch of people trying to do different things
+**Znow**: I’m really proud of my teammates and I couldn’t have asked any other teammates. I’m sure there were times where we could’ve done better but we did good in my opinion. I didn’t have very good expectations for late game so seeing how we performed really surprised me. I guess the main takeaway from all of this is to always believe in your teammates and to have a strong connection because without friendships it isn’t a team, it’s just a bunch of people trying to do different things.
 
-**Sky**: I have to agree with Znow here, im incredibly proud of everyone and how we did throughout the entire tournament, everyone really tried their best to get the highest scores they could despite the challanges. Scep even picked up SV just so we could have a extra sv player
+**Sky**: I have to agree with Znow here, im incredibly proud of everyone and how we did throughout the entire tournament, everyone really tried their best to get the highest scores they could despite the challanges. Scep even picked up SV just so we could have a extra sv player.
 
-**Retina**: i think znow really hit it with that response. in the end, our team mates were the absolute best and i couldn't have asked for any others. regardless of the outcome, we still did our very best until the very end :)
+**Retina**: I think Znow really hit it with that response. In the end, our team mates were the absolute best and i couldn't have asked for any others. Regardless of the outcome, we still did our very best until the very end. :)
 
 **The United States does have the most signups as 60 different players from the United States signed up this year. Is there any future possibilities based on interest & potential, that 4DMWC will see the United States back on top?**
 
-**Znow**: i definitely think it’s possible, if we have the same line up we have for next year i wouldn’t be surprised. Although i don’t see myself being able to participate but anything can happen. I’ve seen the huge improvement of sky, charlie, and even retina so if they decide to sign up next year i have no doubts they’ll make it and guide the USA team to the top
+**Znow**: I definitely think it’s possible, if we have the same line up we have for next year i wouldn’t be surprised. Although I don’t see myself being able to participate but anything can happen. I’ve seen the huge improvement of -Sky-, Charlie, and even Retina so if they decide to sign up next year I have no doubts they’ll make it and guide the USA team to the top.
 
-**Retina**: oh definitely, maybe we might get some new and oldcomers again next year on the team. i'm still debating whether or not i should join next year as i'm noticing the increase in difficulty these maps, especially since i've played throughout the past 3 years and saw it all change each year. i like to think of it like the 4 digit metas are changing, which kinda makes me worry about how the upcoming year of 4dmwc's difficulty spike will look
+**Retina**: Oh definitely, maybe we might get some new and oldcomers again next year on the team. I'm still debating whether or not I should join next year as I'm noticing the increase in difficulty these maps, especially since I've played throughout the past 3 years and saw it all change each year. I like to think of it like the 4 digit metas are changing, which kinda makes me worry about how the upcoming year of 4dmwc's difficulty spike will look.
 
-**Sky**: I can definitely see the USA become the top team once again, just throughout the course of the tournament, some of the players who didnt make it on the team behind the scenes are already stronger than myself and maybe even a few others who did make it on the team. Im sure with the fact that the USA usually gets a lot of signups, I wouldnt be surprised if next year some real insane players show up to dominate the scene
+**Sky**: I can definitely see the USA become the top team once again, just throughout the course of the tournament, some of the players who didn't make it on the team behind the scenes are already stronger than myself and maybe even a few others who did make it on the team. I'm sure with the fact that the USA usually gets a lot of signups, I wouldnt be surprised if next year some real insane players show up to dominate the scene.
 
-**_Seth**: Yeah although USA always has a lot of signups a bunch i'd say about 50% don't have tournament viable skillsets. So the the outcome is about  30 of those players you can consider for the team, and less that actually tryout. That's why I want to identify players now that are on the tournament path and try and cultivate that skill for next year. I'd say that USA is for sure on the upswing though esp next year.... I have my eye on a few players for sure... :eyes:
+**_Seth**: Yeah. Although USA always has a lot of signups a bunch i'd say about 50% don't have tournament viable skillsets. So the the outcome is about 30 of those players you can consider for the team, and less that actually tryout. That's why I want to identify players now that are on the tournament path and try and cultivate that skill for next year. I'd say that USA is for sure on the upswing though esp next year.... I have my eye on a few players for sure... :eyes:
 
-**thank you guys for the time and I hope you guys enjoyed 4DMWC! Best of luck to all of you in the future.**
+**Thank you guys for the time and I hope you guys enjoyed 4DMWC! Best of luck to all of you in the future.**
 
-**Znow**: thank you, it was great to be a part of this and to be a part of the USA team, i wish you well
+**Znow**: Thank you, it was great to be a part of this and to be a part of the USA team, I wish you well.
