@@ -4,6 +4,8 @@ First off, thank you for accepting this text interview with us. Even though this
 
 ## First off, what were your first few experiences in mappooling? How did these experiences shape the way you think about mappooling now?
 
+First of all I would like to give massive shoutouts to Demi for doing 70% of the heavy lifting for 4DM23. In particular he would go out of his way to ensure the pools were of the highest quality possible, even on weeks when he was busy. Now onto the question.
+
 My experience began in late 2020 when I asked to help out with SoL2 pools after getting eliminated in quarterfinals. I didn't contribute much there other than connecting the poolers with Zeta/Biosphere, which led to UNDICI placed in the grand finals pool. Also around that time, Myuka had invited me to pool for a showmatch between 12 of the top players at that time. I only had a week to create a pool, and I at the time thought I had done an excellent job, but most of the prominent poolers thought differently! However, these first few experiences ingrained in me that players really like diversity of songs/maps in the pools over ``safer'' choices that may not offer as much diversity.
 
 ## Overall, how do you now approach mappooling and what other factors of the tournament do you consider while mappooling?
@@ -18,7 +20,7 @@ You have to make it interesting for the players, otherwise they won't care about
 
 Make the pools as enjoyable as you can get away with, while still maintaining balance. Players care a lot less about balance than you think: unless you've got some blatantly unbalanced stuff, every pick will introduce some element of nerves to the player, and what you can control is precisely the enjoyability aspect of it.
 
-Next up, we have a couple of questions pertaining to the pooling process, which normally includes sourcing for maps (or dumpster diving), editing, and even custom mapping and modding.
+**Next up, we have a couple of questions pertaining to the pooling process, which normally includes sourcing for maps (or dumpster diving), editing, and even custom mapping and modding.**
 
 ## What is the process of finding tournament-suitable maps, especially maps that not many players will know and/or played?
 
