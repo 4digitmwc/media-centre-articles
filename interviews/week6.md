@@ -10,7 +10,7 @@
 
 **riunosk**: Similar case to me but I didn't really push myself that hard on practice, I just failed to perform when needed. only thing that frustrates me is that that was a very winnable game
 
-**McButt**: of course it was saddening. We not only lost a guaranteed 2nd place but also need to play up to 3 matches next round. As for my own performance I'd say I did fairly okay but definitely could've been better as i somehow managed to miss on a select few of the maps I was confident in but also fc'ed a couple I didn't have confidence for. i also had group project non stop for the past week but i cant rly blame that since it only actually affected my sv practise which i did okay on anyway
+**McButt**: Of course it was saddening. We not only lost a guaranteed 2nd place but also need to play up to 3 matches next round. As for my own performance I'd say I did fairly okay but definitely could've been better as i somehow managed to miss on a select few of the maps I was confident in but also fc'ed a couple I didn't have confidence for. i also had group project non stop for the past week but i cant rly blame that since it only actually affected my sv practise which i did okay on anyway
 
 **So obviously, this was a match that came down to the wire as Singapore vs China went into Tiebreaker, only for China to narrowly escape with the win. What happened in the match against China?**
 
@@ -18,7 +18,7 @@
 
 **riunosk**: My performance took a sudden dip even though I had just did one run of the map right before it was played, which was a significantly better run than what happened during the match.
 
-**McButt**: Ah yes I wasn't doing too bad for most of the maps because truth be told the maps I played didn't really need a very good session to get a good score on but I know a lot of the rice players were having a terrible session (running out of caffeine(?), having competition same day and generally underperforming ig) so generally big ouch
+**McButt**: Ah yes, I wasn't doing too bad for most of the maps because truth be told the maps I played didn't really need a very good session to get a good score on but I know a lot of the rice players were having a terrible session (running out of caffeine(?), having competition same day and generally underperforming ig) so generally big ouch
 
 **icxfire**: We completely self destructed in our rice picks. We were ready to lose our ln picks to china due to their ln superiority, however we were not expecting to perform so badly in our rice. I had drank coffee before the match in order to try and push for better scores and it was sort of working ( 995k in rc1, which also explains why we protected it ). Unfortunately the caffeine ran out during the match and the sudden tiredness + stress and pressure of performing to standard ultimately led to my downfall during the match. During tiebreaker, the moment i saw myself missing in the first 30 seconds of the match i already gave up all hope, knowing that china will move on to guarantee themselves 2nd.
 
@@ -28,7 +28,7 @@
 
 **awdse22**: For me I can't really say for sure since I'm generally just chilling throughout the tournament and I'm already prepared for anything to happen. I just hope things won't get worse especially with the commitments some of my teammates have.
 
-**McButt**: ill be motivated as i can be other than the fact i have the exact same group project continuing for the next week 💀 (9-6 pls help me)
+**McButt**: I'll be motivated as i can be other than the fact i have the exact same group project continuing for the next week 💀 (9-6 pls help me)
 
 **icxfire**: I think that this loss has basically shown us that we have a major weakness, which is our consistency. If you analyze our match between china and compare the scores ( in rice picks, their ln release is way too superior ), our accuracies are ridiculously similar to china's, showing 2 things. One is that if we didn't miss we probably could have taken the point. Secondly, if we manage to not miss, we do have the accuracy advantage in this scenario. In this following week I'm sure that most of us will be hard pushing skill in order to match the difficulty of the grand finals pool in order to not have a catastrophe of misses in the match, we will also be training every single skillset in order to not make any mistakes during the following matches. China may have protected the map we were supposed to ban, but i'm certain that if we manage to improve, we might be able to take that point.
 
@@ -40,11 +40,11 @@
 
 **icxfire**: While both remaining teams are really strong, both has its weaknesses. For example, while Canada has a really strong rice foundation, their ln capacity seems to be slightly weaker and can be exploited. For Brazil, it seems to be the opposite, their rice is shown to be slightly weaker, however they do possess ln capabilities that can punish us if we aren't careful. While I myself am hoping for Brazil to win ( sorry canada i still believe in y'all), i feel that scheduling will still be a massive issue between either countries and us.
 
-**awdse22**: personally feel canada may win but it's really really uncertain
+**awdse22**: Personally feel canada may win but it's really really uncertain
 
 **TheOPMeme**: Canada. Axel wasn't warmed in his match, svp-, their ln player, wasn't there as well (On their match vs Canada in Winner's Semi-Finals) I think score would be 7-3
 
-**icxfire**: honestly depends. If Brazil wins on ln and hybrid, match might go to tb.
+**icxfire**: Honestly depends. If Brazil wins on LN and hybrid, match might go to TB.
 
 ## Brazil
 
@@ -52,15 +52,15 @@
 
 **Maykee kee**: I played very well on the LNs.
 
-**Buvuw**: i was really really nervous, considering i skillboosted yesterday. So i was like: "oh theres no way i will be doing great today." and guess what? i was playing kinda bad and I was inconsistent too.
+**Buvuw**: I was really really nervous, considering i skillboosted yesterday. So i was like: "oh theres no way i will be doing great today." and guess what? i was playing kinda bad and I was inconsistent too.
 
 **Soore**: As expected, it was a close match.
 
-**Nayeonie bunny**: i think i could have played tb but it's hard to decide the team before a match so it happens
+**Nayeonie bunny**: I think I could have played TB but it's hard to decide the team before a match so it happens.
 
-**Zergh**: It was nerve wrecking, I had a slow start and kinda messed up some maps that I knew I could've done better but after HB2 I got so hyped and only got PB's. Props to teamCanada for having amazing scores at the rices, it was a good match
+**Zergh**: It was nerve wrecking, I had a slow start and kinda messed up some maps that I knew I could've done better but after HB2 I got so hyped and only got PB's. Props to teamCanada for having amazing scores at the rices, it was a good match.
 
-**Jeyfor**: I'm happy with my performance against Canada, I didn't pb anything but definitely better compared to the last matches. Now the match itself was kinda of what i expected,we win most(or all)the ln picks and get some point on rice, especially rice 1 and 7,but that didn't go as expected... and we lose the break point 2 times lol. if we had won the rice 1 we would pick the last hb(probably)
+**Jeyfor**: I'm happy with my performance against Canada, I didn't pb anything but definitely better compared to the last matches. Now the match itself was kinda of what i expected,we win most (or all) the ln picks and get some point on rice, especially rice 1 and 7, but that didn't go as expected... and we lose the break point 2 times lol. If we had won the rice 1 we would pick the last hb(probably).
 
 **(To Zergh, maykee kee, and Buvuw) You guys played the tiebreaker and the score had flickered so many times. Did you guys believe you were going to win the TB against Canada, or did the breaks throughout the map made you lose confidence in your abilities to perform at your best?**
 
@@ -72,7 +72,7 @@
 
 **In terms of expectations, did you guys succeed in what this team wanted to accomplish for 4DMWC 2023?**
 
-**Buvuw**: Hmmmm, idk. About myself, I achieved my goals
+**Buvuw**: Hmmmm, idk. About myself, I achieved my goals.
 
 **Jeyfor**: We wanted to win so I guess we didn't succeed.
 
@@ -88,7 +88,7 @@
 
 **Buvuw**: Yeah, I mean I'm not 4 digit anymore.
 
-**Jeyfor**: i'm probably gonna get skillbanned next 4d so :skull:
+**Jeyfor**: I'm probably gonna get skillbanned next 4d so :skull:
 
 **Zergh**: Only fortunes ahead. The Brazilian community is expanding so much and seeing all the players in our tryouts this year that weren't chosen makes me sure that our future is bright xD I'm sure they will be doing amazing next year since this will be my last one. I already feel sorry for whoever has to choose among all those players like I did these last editions, it's tough man.
 
@@ -116,7 +116,7 @@ Also, I want to express my sincere thanks to the members of both teams, the matc
 
 **Thanks to the members of team Brazil**: Zergh, maykee kee, nayeonie bunny, Jeyfor, Buvuw, and Soore
 
-**Thanks to the members of team Malaysia**: -einar-, JayLye, Cryolien, tosai\_, stygix, and ju1ny11
+**Thanks to the members of team Malaysia**: -einar-, JayLye, Cryolien, tosai_, stygix, and ju1ny11
 
 Lastly, I want to thank the moonbanana for establishing the *alegserrigs* name!
 
@@ -164,7 +164,7 @@ Lastly, I want to thank the moonbanana for establishing the *alegserrigs* name!
 
 **Regardless, thanks guys for the interview and best of luck in grand finals!**
 
-**Axelerrixx**: Thank you. That means a lot to us
+**Axelerrixx**: Thank you. That means a lot to us.
 
 **svp-**: Thank you Pork. We will win for you.
 
