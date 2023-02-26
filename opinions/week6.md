@@ -458,7 +458,7 @@ This is the popular technique in Atonal Music Composition, namely, 12-tone row. 
 
 For the genre decision,  we basically just choose the genres that are suitable in high bpm, so in this case, we choose hardcore, chiptune, xi (yes, xi is a genre), artcore, metal, frenchcore and speedcore. As for deciding their placement, we need to find genres that can be transition smoothly to each other. Hence, hardcore was used as the first genre since it can literally transition into anything, then follow by chiptune and xi. xi and artcore have some similarity, hence we can put artcore after xi. As metal can again, transition into anything due to its wide use, we put it between artcore and hardcore. After that, frenchcore, speedcore and hardcore is pretty similar, so we just put them back to back.
 
-### BPM Changes every 4 bar* (HowToPlayLN)
+### BPM Changes every 4 bars (HowToPlayLN)
 
 The BPM changes in this part are applied every 4 bars, and they are all, **Prime Numbers** from 223 to 317.
 
