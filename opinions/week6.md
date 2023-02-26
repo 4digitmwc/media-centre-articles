@@ -482,7 +482,7 @@ This is a homage to **rN - onostrapha,** the osu! world cup 2022 custom song. rN
 
 ### The Lost Dedication to Cryochemistry (HowToPlayLN)
 
-**HowToPlayLN** In the last piano arrangement, I cited **The Lost Dedicated** and **Cryochemistry** into the arrangement. Especially Cryochemistry, his song was really my inspiration into making a tiebreaker music, as well as inspired me a lot in storyboarding, and providing me the huge motivation to push this community forward.
+In the last piano arrangement, I cited **The Lost Dedicated** and **Cryochemistry** into the arrangement. Especially Cryochemistry, this song was really my inspiration into making a tiebreaker music, as well as inspired me a lot in storyboarding, and providing me the huge motivation to push this community forward.
 
 I wouldn’t get to this point where we did the entire lore, an album and the fully innovative storyboard for Essence without this song. And I would like to thank you so much for the opportunity.
 
