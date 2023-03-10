@@ -1,4 +1,3 @@
-
 ## Introduction & Initial Ideas
 
 write this later
@@ -54,21 +53,68 @@ Of course, most of these materials were made from scratch.
 
 - **Backgrounds** were mostly used in the first half of this tiebreaker, where nothing much was happening in the perspective of Index, except for ambient changes. As a result, I chose to simply alter the colors for the background used in the beatmap itself, with relevance to the mood of the music at every chapter. **Beginnings** felt like a relatively harsh snowstorm, hence the use of a strong cyan blue; **Uncertainty** makes reference to the monochromatic vision and violence outbreaks, thus the interchange between a greyscale and a blood red background. **Progress** used a relatively brighter tone that seemed to let the light flood in, as a signal of hope and discovery.
 
-- **Quotes and User Interface**: yes
+- **Quotes and User Interface**: As planned out in the segmentation of Chapters and Mapper Names, we just had to plan on where to place our user interface. There were a lot of issues with this, from HowToPlayLN and my understanding of how our previous storyboard for Last Wish came about. 
 
-- **Other Assets**: orbs and whatnot, especially the one on why the red orb had to be made looking at the inverted version of the blue one
+Storyboarding in mania is just that much more difficult, because the playfield for every player not only varies by column size, but also by position on the screen. After a little discussion, we decided that the ideal place to have the User Interface would be somewhere below the accuracy and score details that is typically fixated on the top right hand corner of the screen, if they were not situated right in the playfield. This is because we could then assume that not many people place their playfields at the right end of the screen, and it was safe to think that the User Interface would be viewable.
+
+The ideas fleshed out in the previous section was implemented on the storyboard based on start and end timestamps for each chapter and each mapper in this [manner](https://media.discordapp.net/attachments/512920101423415306/1083681268887207976/image.png). It's a little fancy but still clear enough to indicate each part and each mapper, so it does what it has to do.
+
+- **Other Assets**: Other assets in the later half of the storyboard, such as the blue stars (actually made by DannyPX), the blue and red orbs were also made, with a focus on color gradient. Fortunately Figma provides a very large range of tools and guides for designers, which I managed to find by a single Google.
 
 [Here](https://www.figma.com/file/bLhH9gHqPkQickOB5Lt9Z0?node-id=31:97&comments-enabled=1&viewer=1) is the original copy of the Figma board we used to generate all backgrounds and sprites, including some pages that also include the banners I made for this tournament (and some unused ones, mostly improvisatory). Feel free to take a look at them if you would like!
 
 ## Flashing and Backgrounds
 
-- The role of flashes as a mode of transition between scenes, especially in Ascendance towards end of Essence
+As much as there are some issues with strobing lights and effects, the black blinks and white flashes were very important aspects of the storyboard too. Generally, I used them for switches in backgrounds in the transition from the introduction to Beginnings, and the transition into Uncertainty for example. They were used to convery the intensity of various beats, and to emulate various lightings as imagined.
 
-- Black/White flashes (no offense, really, please dont arrest me)
+- **Black/White flashes, and other background features**: Throughout the whole process, I had implemented some functions that would help me create a sprite of whatever background I was planning to use. Here is an example of the code implemented in a layer script named AllBackgrounds.cs:
 
-- Switches between backgrounds in transition to Beginnings and Uncertainty
+```cs
+public void whiteFill(int StartTime, int EndTime, double startOpacity, double endOpacity) 
+    {
+        // create white image, flash it before fading out fast 
+        var white = GetLayer("white").CreateSprite("sb/backgrounds/white.png", OsbOrigin.Centre);
+            
+        white.Fade(StartTime, EndTime, startOpacity, endOpacity);
+    }
+```
 
-- other slower changes in opacity, such as ending in Forever
+Now, in my original implementation, polymorphism was never used to simplify the scripting in the driver method that would animate all the backgrounds, so I found myself having a little bit of a tough time, having to redefine every single method that used a new background. Having just taken an OOP class, I've found out that it's always better if you can generalize these flashes down to a singular parent class (Transition, for example) which then is inherited by various flashes/backgrounds used in this project.
+
+Here is another silly thing that resulted from the need to place numerous flashes. I spent about 2 days implementing all of [this](https://media.discordapp.net/attachments/512920101423415306/1083693505945288734/image.png), which probably almost beats the point of coding.
+
+- **Some of the really fast blinking flashes**: I had a little help from HowToPlayLN to implement some of the faster blinks corresponding to the kicks in the music, especially in the last 4 measures of Essence, reason being that the bpm was getting too fast for me to actually type out by hand. 
+
+There was a definite way to work around this, of course. What was done then, was to define a new method that would use a method similar to the background filler that would generate black-colored flashes if given a list of timestamps with every single kick I wanted a blink on. This was done via a looping process which fortunately wasn't very computationally expensive due to the small amount of data required:
+
+```cs
+public void KickBlackFlash(double opacity) 
+    {
+        var black = GetLayer("black").CreateSprite("sb/backgrounds/black.png", OsbOrigin.Centre);
+        var flashtimes = new List<int>() 
+        {
+            ...all timestamps
+        };
+
+            // loop through each timestamp and add the black
+            for (int i = 0; i < flashtimes.Count - 1; i++) {
+                int start = flashtimes[i];
+                int end = flashtimes[i+1];
+                int diff = end - start;
+                
+                if (diff < 200) { // parse SB flash between the timestamps. If >200ms it likely doesnt need a flash.
+                    black.Fade(start, end, opacity, 0);
+                }
+            }
+        }
+
+```
+
+Note some really challenging parts of defining this function: 
+
+- To obtain all the timestamps required, I had HowToPlayLN actually chart each of the kicks I wanted to apply a blink effect onto, with single streams, output a Python dictionary with all the timestamps that included a note in the reference difficulty and send a text version to me. I then directly copied the list into my list of integers and ran the magic.
+
+- Additionally, I also had to determine the longest duration of a flash I wanted to animate, because animating a really long flash between 2 timestamps that should not have one due to the loop could block out the whole storyboard. After some close inspection of the timeframe between each kick I wanted a blink on, the longest timeframe was about 190ms. Thus, I generalized the threshold timestamp difference to be 200, and any pair of adjacent timestamps that were more than 200ms apart would be ignored in the loop.
 
 ## Beginnings
 
