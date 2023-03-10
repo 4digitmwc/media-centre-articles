@@ -1,6 +1,6 @@
 ## Introduction & Initial Ideas
 
-write this later
+The storyboard is undeniably one of the features that enhances the watching experiences of this astounding tiebreaker showcase. To create these effects, there was a lot of efforts and calculations were put in this storyboard. In this article, Polytetral and HowToPlayLN will talk about the process, algorithms and breakdown the mathematical backgrounds behind them. 
 
 ## Frameworks
 
@@ -27,6 +27,8 @@ Though, if you're looking to try your hand at storyboarding and want to use a sl
 It is currently in the development and aims for new developers to get used to the programming languages and how to create the algorithms using the storyboard as a learning framework, including making storyboard creation more accessible to everyone.
 
 For those who are interested in contribution or testing, please **Direct Message me in Discord** (IndexError#1033). As a developer, I gladly accept any help with this module.
+
+For the source code of this particular storyboard, you can look it up [here](https://github.com/indekkusu-era/essence-storyboard/tree/main/essence). If you have a python and some linear algebra knowledge, feel free to check it out alongside with this article.
 
 ## Quotes, Chapters and Mapper Names
 
