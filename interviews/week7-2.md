@@ -68,27 +68,9 @@ to catch up once again!
 
 **You are a Coordinator for the first time in 4DMWC this year! As someone who's switched from being a champion for France last year, how did the transition went for you in a year span?**
 
-Paturages: After winning last year's edition, staffing for the following year was essentially a
+Paturages: After winning last year's edition, staffing for the following year was essentially a no-brainer, as I deemed that my job for the French team was done. I initially intended to contribute as a more behind-the-scenes general pooler and staffer as a whole, but the hosting opportunity was offered to me and I decided to take it knowing that the other hosts would have my back on the parts of hosting I was less comfortable with. To address the transitioning question, as an already active and experienced staffer, I don't really view it as a transition. Rather, I see it as a direct continuation to what I was already doing in terms of tournament staffing. Many hosts and staffers are also active competitive players who really just want to give back to the community once in a while, and I still consider myself as an active player before being a staffer.
 
-no-brainer, as I deemed that my job for the French team was done. I initially intended to
-
-contribute as a more behind-the-scenes general pooler and staffer as a whole, but the hosting
-
-opportunity was offered to me and I decided to take it knowing that the other hosts would
-
-have my back on the parts of hosting I was less comfortable with.
-
-To address the transitioning question, as an already active and experienced staffer, I don't
-
-really view it as a transition. Rather, I see it as a direct continuation to what I was already doing in terms of tournament staffing. Many hosts and staffers are also active competitive players who really just want to give back to the community once in a while, and I still consider myself as an active player before being a staffer.
-
-I already had prior hosting experience with MBS3 and that was a pretty hectic learning
-
-experience, but 4DMWC is a quite different environment with different people who work in
-
-different ways, so knowing how to adapt to other staff is key to making the tournament a
-
-comfortable and successful experience not only for yourself, but for everyone else.
+I already had prior hosting experience with MBS3 and that was a pretty hectic learning experience, but 4DMWC is a quite different environment with different people who work in different ways, so knowing how to adapt to other staff is key to making the tournament a comfortable and successful experience not only for yourself, but for everyone else.
 
 **So from Logan, you are mostly involved with the mappooling side of things in the tournament, and I heard you kept a very close eye on the SV department of the mappooling team. Especially with custom songs and custom maps were made for this tournament specifically, what was the process like for you to work with the SV team?**
 
@@ -100,28 +82,12 @@ With that said, the SV mapping and balancing process is not an easy one, and man
 
 actually completed quite late in the process. My own maps were essentially speedmapped either one week in advance, or sometimes days before the showcase. One of them was actually recycled from another scrapped tournament. Many other edits and modifications are usually done on the week leading up to showcase, as priorities during the tournament usually focus on polishing the next mappool... and then the directly following ones if we can.
 
-As you can see, mapping and pooling management in practice requires you to still be reactive
-
-even if you plan things in advance, because expectations may change during the tournament
-
-according to player performance and feedback. This is also why poolers have less incentive to
-
-plan in advance, but more and more efforts are made to do that because it is quite stressful
-
-otherwise.
+As you can see, mapping and pooling management in practice requires you to still be reactive even if you plan things in advance, because expectations may change during the tournament according to player performance and feedback. This is also why poolers have less incentive to plan in advance, but more and more efforts are made to do that because it is quite stressful otherwise.
 
 **As a first time coordinator for 4DMWC, it was a lot of work for you but you managed to complete it all alongside DannyPX & Logan636. What was one thing you enjoyed about 4DMWC throughout the whole process from the planning to the finale? And what is your future of 4DMWC heading into future iterations?**
 
-Paturages: My favorite part about staffing is seeing people enjoying themselves and being enthusiastic about what they do, no matter what role, big or small, they take. It may be some hype commentary, banger mapping, some occasional cathartic referee and streaming chaos or even just enjoying the mappool as a player, but I believe that tournament staffing lives and dies
-
-by people being enthusiastic and proactive bringing their own contributions to the table.
+Paturages: My favorite part about staffing is seeing people enjoying themselves and being enthusiastic about what they do, no matter what role, big or small, they take. It may be some hype commentary, banger mapping, some occasional cathartic referee and streaming chaos or even just enjoying the mappool as a player, but I believe that tournament staffing lives and dies by people being enthusiastic and proactive bringing their own contributions to the table.
 
 That motivation in turn encourages other people to follow up with their own contributions, and in my experience this is pretty much how we manage to keep the tournament scene alive, especially with more and more new blood coming in.
 
-My future in 4DMWC staffing will be much more withdrawn: in fact, I will most likely position
-
-myself as a player once again for the French team, this time hopefully playing more of a role
-
-than just the token SV player. I will happily leave the staffing to the many new faces that
-
-have experienced the full 4DMWC behind the scenes experience, and to the new ones that want to leave their own footprint in the tournament scene.
+My future in 4DMWC staffing will be much more withdrawn: in fact, I will most likely position myself as a player once again for the French team, this time hopefully playing more of a role than just the token SV player. I will happily leave the staffing to the many new faces that have experienced the full 4DMWC behind the scenes experience, and to the new ones that want to leave their own footprint in the tournament scene.
