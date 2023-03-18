@@ -1,7 +1,3 @@
-# bts-album
-
-## Album
-
 ## Inspirations
 
 **HowToPlayLN** As we finished Essence faster than expected, which is before the tournament started, we decided to came up with the ideas of making an **EP (Extended Play)** based on the variation theme of 1547, starting from the initial lore which was written by **Polytetral**, where I actually decided to write a continuation in my POV after finishing the ETI Model. The first song that originated the idea of making an EP is **wandering through the stars**, which was later used in the RO32 cutscene. Poly also came up with the idea of making the videos, based on the lore we have planned and wrote, and I as well decided to join by asking takehirotei if we can make a full album out of this variation theme, and everything was started from there.
