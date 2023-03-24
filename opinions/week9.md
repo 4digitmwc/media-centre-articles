@@ -81,7 +81,7 @@ Here are the songs that I’ve cited in my part:
 4. [1:47] Essence lick (1547)
 5. [2:08] Finale Battle of the Requiem from OMT2021 GF TB
 
-**Panning (Imaginary Reality**
+**Panning (Imaginary Reality)**
 
 Again, the instruments are panned here to get a better mix, in this song, both of the cellos are placed between the piano, meaning one cello is at the right, one at the left, and the piano and other instruments are in the center. 
 
