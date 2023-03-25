@@ -100,7 +100,7 @@ Here are the songs that I’ve cited in my part:
 
 For this particular piece, it was composed before we started to think about the lore, it reminded me of the memories from starting the tournament until the current state, as I also mentioned about these songs in the cryptic way that it corresponded with the lore. 
 
-### Essence ~among the constellations~
+### Essence \~among the constellations\~
 
 **Piano + main flow (HowToPlayLN)**
 
