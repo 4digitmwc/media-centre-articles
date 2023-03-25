@@ -114,7 +114,7 @@ After HowToPlayLN have provided the piano parts, I started adding instruments to
 
 And again, the instruments are panned to simulate the real world so that it sounds like an actual live performance. 
 
-### Essence ~drifting among the constellations~ (Imaginary Reality)
+### Essence \~drifting among the constellations\~ (Imaginary Reality)
 
 It all started with this tweet 
 
